@@ -82,9 +82,17 @@
           <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-framework" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/lecode/lecode-lcdp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.data4truth.com/dft-cloud/dft-cloud-data-modeler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\projects\zzy\dft-cloud-temp" />
+    <option name="cloneParentDir" value="E:\projects\zzy\dft-cloud" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
