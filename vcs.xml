@@ -102,9 +102,13 @@
           <option name="url" value="https://code.data4truth.com/ajsh-saas/ajsh-member.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/zhong96/spring-framework-analysis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\projects\ajsh-saas" />
+    <option name="cloneParentDir" value="E:\projects\sourceCode" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
