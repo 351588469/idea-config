@@ -1,0 +1,15 @@
+<application>
+  <component name="RedisHelper">
+    <option name="connections">
+      <list>
+        <ConnectionInfo>
+          <option name="global" value="true" />
+          <option name="id" value="39c33a4b-ff58-454e-8ddb-6497ebaeac81" />
+          <option name="name" value="zzyLocal" />
+          <option name="port" value="6379" />
+          <option name="url" value="localhost" />
+        </ConnectionInfo>
+      </list>
+    </option>
+  </component>
+</application>
